@@ -8,12 +8,9 @@
 * Issue tracking: <https://github.com/opencv/opencv/issues>
 
 ### Contributing
-
 Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/How_to_contribute) before starting work on a pull request.
 
 #### Summary of the guidelines:
-
-
 * One pull request per issue;
 * Choose the right base branch;
 * Include tests and documentation;
